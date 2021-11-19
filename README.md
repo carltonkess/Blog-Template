@@ -20,7 +20,9 @@ Somehow, it took me about 12 hours to implement a 3 hour tutorial.
 
 Many of the CSS functions didn't work for me verbatim. 
 
-so after scouring the code for hours to check for typos and CSS References on w3schools.com. 
+so after scouring the code for hours to check for typos and CSS References on w3schools.com 
+
+StackOverflow and Reddit. 
 
 I decided to alter some of the dimensions. 
 
